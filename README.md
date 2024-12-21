@@ -14,8 +14,6 @@
 
 ------------
 
-<img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SHABAN%20SOBX%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MR%20SHABAN%20432%20KING%20OF%20KINGS%20OWNER%20MR%20SHABAN%20AND%20USMAN%20SILENT🦋&image=https://telegra.ph/file/e47b23583ab7ec42d58df.jpg?v=4&backgroundColor=%23ecf0f1&github=MRSHABAN&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
