@@ -15,20 +15,15 @@
 ------------
 
 
-<br>
-
-`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
-
-<br>
 
 --------
 
 <p align="center">
-<a href="https://github.com/MRSHABAN/"><img title="Followers" src="https://img.shields.io/github/followers/MRSHABAN?color=blue&style=flat-square"></a>
-<a href="https://github.com/MRSHABAN/SHABAN-SOBX-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MRSHABAN/SHABAN-SOBX-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/MRSHABAN/SHABAN-SOBX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MRSHABAN/SHABAN-SOBX-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/MRSHABAN/SHABAN-SOBX-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/MRSHABAN/SHABAN-SOBX-MD?style=flat-square&color=blue"></a>
-<a href="https://github.com/MRSHABAN/SHABAN-SOBX-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/MRSHABAN40/"><img title="Followers" src="https://img.shields.io/github/followers/MRSHABAN40?color=blue&style=flat-square"></a>
+<a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MRSHABAN40/SHABAN-SOBX-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MRSHABAN40/SHABAN-SOBX-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/MRSHABAN40/SHABAN-SOBX-MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -43,22 +38,16 @@
 
 --------------
 
-`߷߷߷߷߷߷߷߷߷߷߷߷߷߷߷߷߷߷߷߷߷`
-
-----------------
-
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMRSHABAN%2FSHABAN-SOBX-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMRSHABAN40%2FSHABAN-SOBX-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
-![forks](https://img.shields.io/github/forks/MRSHABAN/SHABAN-SOBX-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/MRSHABAN40/SHABAN-SOBX-MD?label=Forks&style=social)
 
 
-![stars](https://img.shields.io/github/stars/MRSHABAN/SHABAN-SOBX-MD?style=social)
+![stars](https://img.shields.io/github/stars/MRSHABAN40/SHABAN-SOBX-MD?style=social)
 
 
-[![FORK SHABAN-SOBX-MD](https://img.shields.io/badge/FORK%20-SHABAN%20SOBX%20MD-white)](https://github.com/MRSHABAN/SHABAN-SOBX-MD/fork)
-
-`❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁`
+[![FORK SHABAN-SOBX-MD](https://img.shields.io/badge/FORK%20-SHABAN%20SOBX%20MD-white)](https://github.com/MRSHABAN40/SHABAN-SOBX-MD/fork)
 
 ---------------
 
@@ -67,13 +56,10 @@
 
 -----------------
 
-🚀 `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🚀 **[Baileys](https://github.com/WhiskeySockets/Baileys)**
+🚀 `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🚀 **[SilentLover]
 
 ------------------
 
-`✿︎✿︎✿︎✿︎✿︎✿︎✿︎✿︎✿︎✿︎✿︎✿︎✿︎✿︎✿︎✿︎✿︎✿︎✿︎✿︎✿︎✿︎✿︎︎`
-
------------------
 
 ### <br> 🙏 FOR SUPPORT 🙏
 
@@ -103,12 +89,6 @@
 
 --------------
 
-`✰`✰`✰`✰`✰`✰`✰`✠`✰`✰`✰`✰`✰`✰
-
-
-
--------------
-
 <
 ### <br>    ❖ SESSION_ID ❖
 
@@ -122,12 +102,6 @@
 <p/>
 
 ----------
-
-----------
-
-----------
-
-----------
  
 ### <br>   ✫ DEPLOY_HEROKU ✫
 
@@ -135,7 +109,7 @@
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/MRSHABAN/SHABAN-SOBX-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/MRSHABAN40/SHABAN-SOBX-MD)
 
 ----------
 
@@ -145,108 +119,14 @@
 
 -------------
 
-<p align="left"><a href="https://repl.it/github/MRSHABAN/SHABAN-SOBX-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/github/MRSHABAN40/SHABAN-SOBX-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
---------------
-
-### <br>   ✫ DEPLOY_KOYEB ✫
-
-`۞ IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY SHABAN-SOBX-MD ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ۞`
 
 ---------
 
-<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-
-------------
-
-### <br>  ✫ DEPLOY_RAILWAY ✫
-
-`✪ IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY SHABAN-SOBX-MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✪`
-
---------
-
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
-
----------------
-
-### <br> 𖣘 MORE DEPLOY METHOD 𖣘
-
---------
-### <br>   ߷ DEPLOY_GLITCH ߷
-
-<a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
-
---------
-
-### <br>   ☠︎︎ DEPLOY_CODESPACE ☠︎︎
-
-<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
-
---------
-
-### <br>   ☀︎︎ DEPLOY_RENDER ☀︎︎
-
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
-
------------
-
-### <br>  ☺︎︎ DEPLOY_WORKFLOWS ☺︎︎
-```
-name: Node.js CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
-```
-
------------
-
-`😍 HOW TO DEPLOY SHABAN-SOBX-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO 😍`
-
--------------
-
-<p align="center">
-   <a href="https://youtu.be/jn8_kP5xxP4?si=LOydtNtHyv3nfzEB"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
-    </a>
-</p>
-
--------------
-
 <a><img src='https://i.imgur.com/VSVRZsX.gif'/></a>
 
-------------
-
-`⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
-
--------------------
+---------
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -257,7 +137,7 @@ jobs:
 
 ------------
 
-![license](https://img.shields.io/github/license/MRSHABAN/SHABAN-SOBX-MD?color=green&label=License&style=plastic)
+![license](https://img.shields.io/github/license/MRSHABAN40/SHABAN-SOBX-MD?color=green&label=License&style=plastic)
 
 ----------
 
