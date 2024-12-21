@@ -89,7 +89,6 @@
 
 --------------
 
-<
 ### <br>    ❖ SESSION_ID ❖
 
 
@@ -137,7 +136,4 @@
 
 ------------
 
-![license](https://img.shields.io/github/license/MRSHABAN40/SHABAN-SOBX-MD?color=green&label=License&style=plastic)
-
-----------
 
