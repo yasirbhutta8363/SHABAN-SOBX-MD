@@ -122,11 +122,63 @@
 
 
 ---------
+### <br> ❖👇CODE_DEPLOY_GETHUB👇❖
 
+
+### <br>   ❖ DEPLOY_WORKFLOWS ❖
+```
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
+
+-----------
+
+`⚡ HOW TO DEPLOY SHABAN-SOBX-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO 👇`
+
+-------------
+
+<p align="center">
+   <a href="https://youtube.com/@mrshaban282?si=Mmp8uT0UZsRqvKnq"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+    </a>
+</p>
+
+-------------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/VSVRZsX.gif'/></a>
-
----------
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
