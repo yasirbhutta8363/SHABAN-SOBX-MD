@@ -10,13 +10,7 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`SILENT+-+SOBX+-+MD+WHATSAPP+BOT`" alt="">
-
-------------
-
-<img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20SILENT%20LOVER%20432%20KING%20OF%20KINGS%20OWNER%20SILENT%20LOVER%20AND%20SOBIA%20BUTT♥️&image=https://telegra.ph/file/e47b23583ab7ec42d58df.jpg?v=4&backgroundColor=%23ecf0f1&github=SILENTLOVER4&pattern=leaf&colorPattern=%23eaeaea"/>
-
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=SILENT+-+SOBX+-+MD+WHATSAPP+BOT" alt="">
 
 --------
 
@@ -62,7 +56,7 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=�
 
 ### <br> ☹︎ 𝐅𝐎𝐑 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ☹︎
 
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME MR✯SHABAN⁴³²`**
+**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME MR✯SHABAN`**
 
 ------------
 
@@ -78,7 +72,7 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=�
 <a href="https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 
-`𖣘 IF YOU WANT MORE ABOUT S͎H͎A͎B͎A͎N͎-S͎O͎B͎X͎-M͎D͎ WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL 𖣘`
+`𖣘 IF YOU WANT MORE ABOUT 𝐒𝐇𝐀𝐁𝐀𝐍-𝐒𝐎𝐁𝐗-𝐌𝐃 ͎ WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL 𖣘`
 
 
 <a href="https://youtube.com/@mrshaban282?si=Mmp8uT0UZsRqvKnq"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
@@ -89,7 +83,7 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=�
 
 <br>
 
-`📽️ ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ Sʜᴀʙᴀɴ-Sᴏʙx-Mᴅ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡᴀᴛᴄʜ VIDEO ᴀɴᴅ SUPPORT ᴏᴜʀ YOUTUBE CHANNEL👇`
+`📽️ HOW TO DEPLOY SHABAN-SOBX-MD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL👇`
 
 
 <p align="center">
@@ -163,7 +157,7 @@ jobs:
 
 -----------
 
-`⚡ HOW TO DEPLOY SHABAN-SOBX-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO ⚡`
+`⚡ HOW TO DEPLOY SHABAN-SOBX-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO 👇`
 
 -------------
 
@@ -175,12 +169,6 @@ jobs:
 -------------
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-------------
-
-
-------------
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -189,8 +177,4 @@ jobs:
 ***⚠️THANKS FOR USING SHABAN-SOBX-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SHABAN-SOBX-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY MRSHABAN432 KING OF WHATSAPP♥️***
 
 ------------
-
-![license](https://img.shields.io/github/license/MRSHABAN40/SHABAN-SOBX-MD?color=green&label=License&style=plastic)
-
-----------
 
