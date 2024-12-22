@@ -4,7 +4,7 @@
 🤩 **`THE WORLD BEST WHATSAPP BOT CREATED BY MRSHABAN`** 🥳
 
 ----------
-### <br> ❀ اَسـٜـٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜـٜـٜلامُ عَليـٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜکمُ ❀
+![SHABAN-SOBX-MD](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+**𝐀𝐚𝐬𝐥𝐚𝐦𝐎𝐀𝐚𝐥𝐢𝐤𝐮𝐦**+❣️+**EVERYONE**+👋🏻;😍+**WELCOME+TO+SHABAN+MD+BOT**+💙;❤️+**THE+ULTIMATE+WHATSAPP+BOT+EXPERIENCE!**;🎉+**ENJOY+UNLIMITED+FEATURES+AND+COMMANDS!**;⚡+**FAST+%7C+RELIABLE+%7C+USER-FRIENDLY+BOT!**;🥳+**LET'S+GET+STARTED!**)
 ----------
 
 <a><img src='https://i.imgur.com/DzrdW5g.gif'/></a>
