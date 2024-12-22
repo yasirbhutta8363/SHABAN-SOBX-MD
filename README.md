@@ -14,10 +14,6 @@
 
 ------------
 
-
-
---------
-
 <p align="center">
 <a href="https://github.com/MRSHABAN40/"><img title="Followers" src="https://img.shields.io/github/followers/MRSHABAN40?color=blue&style=flat-square"></a>
 <a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MRSHABAN40/SHABAN-SOBX-MD?color=blue&style=flat-square"></a>
@@ -51,19 +47,14 @@
 
 ---------------
 
-</a>
-</p>
-
------------------
-
-🚀 `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🚀 **[SilentLover]
+🥂 `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🥂**[SilentLover]
 
 ------------------
 
 
-### <br> 🙏 FOR SUPPORT 🙏
+### <br> ❀ 𝐅𝐎𝐑 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ❀
 
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME MR✠SHABAN࿐➺`**
+**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME MR✩SHABAN`**
 
 -------
 
@@ -89,7 +80,7 @@
 
 --------------
 
-### <br>    ❖ SESSION_ID ❖
+### <br>    ✰ 𝐒𝐄𝐒𝐒𝐈𝐎𝐍_𝐢𝐃 ✰
 
 
 `✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
@@ -102,7 +93,7 @@
 
 ----------
  
-### <br>   ✫ DEPLOY_HEROKU ✫
+### <br>   ✫ 𝗗𝗘𝗣𝗟𝗢𝗬_𝗛𝗘𝗥𝗢𝗞𝗨 ✫
 
 `✠ IF YOU WANT TO DEPLOY SHABAN-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
 
@@ -112,7 +103,7 @@
 
 ----------
 
-### <br>    ✫ DEPLOY_REPLIT ✫
+### <br>    ߷ 𝗗𝗘𝗣𝗟𝗢𝗬_𝗥𝗘𝗣𝗟𝗜𝗧 ߷
 
 `✠ IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY SHABAN-SOBX-MD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT ✠`
 
@@ -179,6 +170,7 @@ jobs:
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/VSVRZsX.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
