@@ -113,10 +113,10 @@
 
 
 ---------
-### <br> ❖👇CODE_DEPLOY_GETHUB👇❖
+### <br> ❖👇DEPLOY_GETHUB👇❖
 
 
-### <br>   ❖ DEPLOY_WORKFLOWS ❖
+### <br> ❖ DEPLOY_WORKFLOWS ❖
 ```
 name: Node.js CI
 
@@ -169,6 +169,7 @@ jobs:
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <a><img src='https://i.imgur.com/VSVRZsX.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
