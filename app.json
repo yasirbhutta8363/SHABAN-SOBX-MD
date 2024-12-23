@@ -139,8 +139,11 @@
       "description": "make it true if you to show your reail last seen.",
       "required": true,
       "value": "true"
-    }
-
+    },
+    "EVENTS": {
+       "description": "choose whether to allow bot to detect events in groups such as promote, demote, remove and add. If set to true bot will send welcome/goodbye messages and signal when somebody is promoted or demoted.",
+      "required": true,
+      "value": "true"
 
 },
 
