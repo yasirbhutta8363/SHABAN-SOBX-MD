@@ -141,7 +141,7 @@
       "value": "true"
     },
     "EVENTS": {
-       "description": "choose whether to allow bot to detect events in groups such as promote, demote, remove and add. If set to true bot will send welcome/goodbye messages and signal when somebody is promoted or demoted.",
+       "description": "choose whether to allow bot to detecdemoted.",
       "required": true,
       "value": "true"
 
