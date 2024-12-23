@@ -22,7 +22,7 @@
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "ɪᴍ ᴀʟɪᴠᴇ ɴᴏᴡ.!!"
+      "value": "ʜɪɪ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅ ɪᴍ ᴀʟɪᴠᴇ ɴᴏᴡ.!!"
     },
     
     "PREFIX": {
@@ -76,7 +76,7 @@
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_REACT": {
@@ -95,11 +95,11 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦sʜᴀʙᴀɴ-sᴏʙx-ᴍᴅ✦"
+      "value": "✯sʜᴀʙᴀɴ-sᴏʙx-ᴍᴅ✯"
     }, 
 
     "HEART_REACT": {
-      "description": "Make it true if you want bot only heart 💛 emjois reaction .",
+      "description": "Make it true if you want bot only heart 💚 emjois reaction .",
       "required": true,
       "value": "false"
     }, 
@@ -117,12 +117,28 @@
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
-      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү sʜᴀʙᴀɴ-sσвx-м∂"
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω"
     },
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
       "required": true,
       "value": "true"
+    }, 
+
+    "ALWAYS_ONLINE": {
+      "description": "make it true if you want to show always online.",
+      "required": true,
+      "value": "true"
+    }, 
+    "FAKE_TYPING": {
+      "description": "make it true if you want to show fake typing.",
+      "required": true,
+      "value": "true"
+    }, 
+    "CURRENT_STATUS": {
+      "description": "make it true if you to show your reail last seen.",
+      "required": true,
+      "value": "false"
     }
 
 
