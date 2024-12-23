@@ -1,7 +1,7 @@
 {
   "name": "SHABAN-SOBX-MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀsʜᴀʙᴀɴ⁴³²",
-  "logo": "https://i.imgur.com/DzrdW5g.jpeg",
+  "logo": "https://i.imgur.com/xWjbQn0.jpeg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -46,13 +46,13 @@
     "AUTO_REPLY": {
       "description": "Make it true if you want bot auto reply.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STICKER": {
       "description": "Make it true if you want bot auto sticker.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_READ_STATUS": {
@@ -82,13 +82,13 @@
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "OWNER_REACT": {
       "description": "Make it true if you want bot OwnerReact.",
       "required": true,
-      "value": "true"
+      "value": "false"
     
     }, 
 
@@ -101,7 +101,7 @@
     "HEART_REACT": {
       "description": "Make it true if you want bot only heart 💚 emjois reaction .",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "READ_MESSAGE": {
@@ -122,13 +122,13 @@
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "ALWAYS_ONLINE": {
       "description": "make it true if you want to show always online.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
     "FAKE_TYPING": {
       "description": "make it true if you want to show fake typing.",
@@ -138,7 +138,7 @@
     "CURRENT_STATUS": {
       "description": "make it true if you to show your reail last seen.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }
 
 
