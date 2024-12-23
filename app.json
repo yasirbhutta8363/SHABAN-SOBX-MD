@@ -139,11 +139,8 @@
       "description": "make it true if you to show your reail last seen.",
       "required": true,
       "value": "true"
-    },
-    "EVENTS": {
-       "description": "choose whether to allow bot to detecdemoted.",
-      "required": true,
-      "value": "true"
+    }
+
 
 },
 
