@@ -44,6 +44,8 @@
 
 [![FORK SHABAN-SOBX-MD](https://img.shields.io/badge/FORK%20-SHABAN%20SOBX%20MD-white)](https://github.com/MRSHABAN40/SHABAN-SOBX-MD/fork)
 
+![license](https://img.shields.io/github/license/MRSHABAN40/SHABAN-SOBX-MD?color=green&label=License&style=plastic
+
 ---------------
 
 <img align="center" height="auto"
