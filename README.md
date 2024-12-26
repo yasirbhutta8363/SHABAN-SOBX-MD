@@ -74,11 +74,35 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
 
 -----------
 
-`✰ IF YOU WANT MORE ABOUT SHABAN-SOBX-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✰`
+### <br> 👽 𝘽𝙊𝙏 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎 👽
 
-----------
+👁️‍🗨️ 𝘼𝙉𝙏𝙄𝙑𝙄𝙒𝙊𝙉𝙀𝙎
 
-<a href="https://youtube.com/@mrshaban282?si=Mmp8uT0UZsRqvKnq"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🥰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🥰" width="300"></a>
+👁️‍🗨️ 𝘼𝙇𝙇 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿𝙀𝙍 𝘾𝙈𝘿𝙎
+
+👁️‍🗨️ 𝘼𝙉𝙏𝙄𝙇𝙄𝙉𝙆 𝙂𝙍𝙊𝙐𝙋
+
+👁️‍🗨️ 𝙐𝙍𝙇 𝙄𝙈𝘼𝙂𝙀 
+
+👁️‍🗨️ 𝘼𝙐𝙏𝙊𝙍𝙀𝘼𝘾𝙏𝙄𝙊𝙉
+
+👁️‍🗨️ 𝘼𝙐𝙏𝙊 𝙎𝙏𝘼𝙏𝙐𝙎𝙑𝙄𝙀𝙒
+
+👁️‍🗨️ 𝙋𝘼𝙄𝙍 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝘾𝙊𝙈𝙈𝘼𝙉𝘿
+
+👁️‍🗨️ 𝘼𝙐𝙏𝙊 𝙎𝙏𝘼𝙏𝙐𝙎 𝙍𝙀𝙋𝙇𝙔
+
+👁️‍🗨️ 𝘼𝙐𝙏𝙊𝙍𝙀𝘼𝘿
+
+👁️‍🗨️ 𝙊𝙒𝙉𝙀𝙍 𝘾𝙊𝙈𝙈𝘼𝙉𝘿
+
+👁️‍🗨️ 𝘼𝙉𝙏𝙄𝙇𝙄𝙉𝙆
+
+👁️‍🗨️ 𝘼𝙉𝙏𝙄𝙎𝙋𝘼𝙈
+
+👁️‍🗨️ 𝘼𝙉𝙏𝙄 𝙃𝙀𝙍𝙊𝙆𝙐 𝘽𝘼𝙉
+
+👁️‍🗨️ 𝘼𝙇𝙇 𝙊𝙁 𝙔𝙊𝙐𝙍 𝙉𝙀𝙀𝘿𝙎 𝙄𝙉 𝙊𝙉𝙀 𝘽𝙊𝙏
 
 --------------
 
