@@ -26,9 +26,6 @@
 <p align='center'>
 </p>
 
-
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SHABAN-SOBX-MD/count.svg" /><br>SHABAN-SOBX-MD-V2</div>
-
 ------------
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
