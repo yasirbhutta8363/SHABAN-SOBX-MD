@@ -169,15 +169,16 @@ jobs:
 
 -------------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 <a><img src='https://i.imgur.com/VSVRZsX.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
------------
-
-***😇THANKS FOR USING SHABAN-SOBX-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SHABAN-SOBX-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY MRSHABAN282 KING OF WHATSAPP🤠***
 
 ------------
-![license](https://img.shields.io/github/license/MRSHABAN40/SHABAN-SOBX-MD?color=green&label=License&style=plastic)
--------------
+
+***
+<h2 align="left">𝗡𝗢𝗧𝗜𝗖𝗘</h2>
+<p style="text-align: center; font-size: 1.2em;">
+  <strong>NB 🚫</strong><br>
+   
+_I’m not responsible for you messing around and getting your account banned. As long as you don’t modify the source code to fit your idiotic needs, you’re fine. But seriously, don’t go spamming others. I’m tired of repeating this._
+</p>
+    
+***
