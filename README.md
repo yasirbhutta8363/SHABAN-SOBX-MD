@@ -121,24 +121,16 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
  
 ### <br>   ✫ 𝗗𝗘𝗣𝗟𝗢𝗬_𝗛𝗘𝗥𝗢𝗞𝗨 ✫
 
-`✠ IF YOU WANT TO DEPLOY SHABAN-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+<p align="center">
+   <a href="https://youtu.be/eHyyFWSktqI?si=4Gd69MJBS65_Px5f"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+    </a>
+</p>
 
 ------------
  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/MRSHABAN40/SHABAN-SOBX-MD)
 
-----------
-
-### <br>    ߷ 𝗗𝗘𝗣𝗟𝗢𝗬_𝗥𝗘𝗣𝗟𝗜𝗧 ߷
-
-`✠ IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY SHABAN-SOBX-MD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT ✠`
-
--------------
-
-<p align="left"><a href="https://repl.it/github/MRSHABAN40/SHABAN-SOBX-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
-
----------
+------------
 ### <br> ❖👇DEPLOY_GETHUB👇❖
 
 
@@ -186,7 +178,7 @@ jobs:
 -------------
 
 <p align="center">
-   <a href="https://youtube.com/@mrshaban282?si=Mmp8uT0UZsRqvKnq"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+   <a href="https://youtu.be/xxw7uG5Xb6M?si=cwdTifhYH5INDSFD"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
