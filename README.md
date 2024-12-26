@@ -49,7 +49,8 @@
 
 ---------------
 
-🥂 `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🥂**[SilentLover]
+<img align="center" height="auto"
+src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MR%20SHABAN♥️&image=https://i.ibb.co/wwkxCP7/Manul-Ofc-X.jpg?v=4&backgroundColor=%23ecf0f1&github=MRSHABAN40&pattern=leaf&colorPattern=%23eaeaea"/>
 
 ------------------
 
