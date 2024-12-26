@@ -1,7 +1,7 @@
 ---------
 
-### <br>  ⚡ SHABAN-SOBX-MD ⚡
-🤩 **`THE WORLD BEST WHATSAPP BOT CREATED BY MRSHABAN`** 🥳
+</p> <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F89C75F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=THANK+YOU;FOR+USIN+SHABAN+SOBX+MD" alt="Typing SVG" /></a>
 
 ----------
 ![SHABAN-SOBX-MD](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+**𝐀𝐚𝐬𝐥𝐚𝐦𝐎𝐀𝐚𝐥𝐢𝐤𝐮𝐦**+❣️+**EVERYONE**+👋🏻;😍+**WELCOME+TO+SHABAN+MD+BOT**+💙;❤️+**THE+ULTIMATE+WHATSAPP+BOT+EXPERIENCE!**;🎉+**ENJOY+UNLIMITED+FEATURES+AND+COMMANDS!**;⚡+**FAST+%7C+RELIABLE+%7C+USER-FRIENDLY+BOT!**;🥳+**LET'S+GET+STARTED!**)
