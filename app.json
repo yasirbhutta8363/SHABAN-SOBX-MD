@@ -1,7 +1,7 @@
 {
   "name": "SHABAN-SOBX-MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀsʜᴀʙᴀɴ⁴³²",
-  "logo": "https://cdn.ironman.my.id/i/ccl6pv.jpg",
+  "logo": "https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.imgur.com/DzrdW5g.jpeg"
+      "value": "https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg"
     }, 
     
     "ALIVE_MSG": {
