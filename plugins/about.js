@@ -17,7 +17,7 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 let about = `*╭┈───────────────•*
 
-*👋 HELLO ${pushname}*
+*👋 Aaslam o Alaikum ${pushname}*
 
 *╰┈───────────────•*
 *╭┈───────────────•*

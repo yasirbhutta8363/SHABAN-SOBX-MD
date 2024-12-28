@@ -165,7 +165,7 @@ await conn.sendMessage(from, { text: repo ,
     forwardingScore: 999,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363365409736548@newsletter',
+      newsletterJid: '120363358310754973@newsletter',
       newsletterName: "MRSHABAN432",
       serverMessageId: 999
     },
@@ -174,7 +174,7 @@ title: 'SHABAN-SOBX-MD',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/MRSHABAN40/SHABAN-SOBX-MD" ,
-thumbnailUrl: "https://i.imgur.com/DzrdW5g.jpeg" ,
+thumbnailUrl: "https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
