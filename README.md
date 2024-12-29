@@ -114,10 +114,6 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
 <a href="https://megapair1-369d58255813.herokuapp.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-green?style=for-the-badge&logo=heroku"></a>
 <p/>
 
-<p align="center">
-<a href="https://betapair-5aa42034dce1.herokuapp.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-2:-blue?style=for-the-badge&logo=heroku"></a>
-<p/>
-
 ----------
  
 ### <br>   ✫ 𝗗𝗘𝗣𝗟𝗢𝗬_𝗛𝗘𝗥𝗢𝗞𝗨 ✫
