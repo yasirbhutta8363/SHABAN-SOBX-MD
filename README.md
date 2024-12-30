@@ -110,9 +110,7 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
 
 ----------
 
-<p align="center">
-<a href="https://megapair1-369d58255813.herokuapp.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-green?style=for-the-badge&logo=heroku"></a>
-<p/>
+[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://megapair1-369d58255813.herokuapp.com/)
 
 ----------
  
