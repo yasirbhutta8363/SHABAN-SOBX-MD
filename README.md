@@ -47,16 +47,12 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
 
 ------------------
 
+<br>
 
-### <br> ❀ 𝐅𝐎𝐑 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ❀
+👇 Contact Me on WhatsApp  🤝
+[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923059395959)  
 
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME MR✩SHABAN`**
-
--------
-
-<p align="center">
-  <a href="https://wa.me/+923059395959?text=*ʜɪɪ+ᴍʀsʜᴀʙᴀɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+sʜᴀʙᴀɴ-sᴏʙx-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<br>
 
 -----------    
 
