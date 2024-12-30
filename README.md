@@ -3,7 +3,7 @@
                                              👑𝗠𝗥 𝗦𝗛𝗔𝗕𝗔𝗡👑
 ----------
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+𝗠𝗥 𝗦𝗛𝗔𝗕𝗔𝗡;RELEASED+20.12.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+MR SHABAN;RELEASED+20.12.2024" alt="Typing SVG" /></a>
 
 ----------
 
@@ -27,12 +27,6 @@
 </p>
 
 ------------
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
---------------
-
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMRSHABAN40%2FSHABAN-SOBX-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
