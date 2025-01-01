@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg"
+      "value": "https://i.ibb.co/R2XkkSY/Manul-Ofc-X.jpg"
     }, 
     
     "ALIVE_MSG": {
