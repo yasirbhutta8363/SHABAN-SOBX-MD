@@ -99,7 +99,9 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
 
 --------------
 
-[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://megapair1-369d58255813.herokuapp.com/)
+[![Get Session ID 1 Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://megapair1-369d58255813.herokuapp.com/)
+
+[![Get Session ID 2 Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=BB4600&style=for-the-badge&logo=firefox&logoColor=white)](https://megapair2-eaeb1b04e1ab.herokuapp.com/)
 
 ----------
  
