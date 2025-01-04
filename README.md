@@ -89,6 +89,8 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
 [![Get Session ID 2 Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=BB4600&style=for-the-badge&logo=firefox&logoColor=white)](https://megapair2-eaeb1b04e1ab.herokuapp.com/)
 
  [![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/MRSHABAN40/SHABAN-SOBX-MD)
+
+ <a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
  
 ------------
 ### <br> ❖👇DEPLOY_GETHUB👇❖
