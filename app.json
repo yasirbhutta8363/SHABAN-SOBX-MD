@@ -1,8 +1,8 @@
 {
   "name": "SHABAN-SOBX-MD",
-  "description": "Javascript WhatsApp bot made by Mʀ Sʜᴀʙᴀɴ",
+  "description": "Jᴀᴠᴀsᴄʀɪᴘᴛ Wʜᴀᴛsᴀᴘᴘ Bᴏᴛ Mᴀᴅᴇ Bʏ Mʀ Sʜᴀʙᴀɴ",
   "logo": "https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg",
-  "keywords": ["shaban-md"],
+  "keywords": ["sʜᴀʙᴀɴ-sᴏʙx-ᴍᴅ"],
   "success_url": "/",
 
     "stack": "container",
@@ -67,13 +67,13 @@
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY SHABAN-SOBX-MD*"
+      "value": "*Jᴜsᴛ Nᴏᴡ Sᴛᴀᴛᴜs Sᴇᴇɴ Bʏ ᯽Sʜᴀʙᴀɴ-Sᴏʙx-Mᴅ᯽*"
    
      }, 
     
@@ -86,7 +86,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "92310344XXXX"
+      "value": "923059395959"
 
     }, 
 
@@ -113,7 +113,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ sʜᴀʙᴀɴ*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*"
     },
 
       "DELETE_LINKS": {
@@ -150,7 +150,7 @@
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍,💘,💞,💕,❣️,💔,❤️‍🔥,💐,🌸,💮,🪷,🏵️,🌹,🌺,🌻,🌼,🌷,🎉,🪀,🧸,🌜,🌛,⭐,🌟,🔔,💡,🇨🇮,🇲🇷,🇵🇰,🇸🇦"
     }, 
     
     "READ_CMD": {
