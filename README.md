@@ -1,6 +1,6 @@
 ----------
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+MR SHABAN;RELEASED+20.12.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+MR SHABAN;RELEASED+24-12-2024" alt="Typing SVG" /></a>
 
 ----------
 
@@ -27,16 +27,13 @@
          
 </p>
 
-[![FORK SHABAN-SOBX-MD](https://img.shields.io/badge/FORK%20-SHABAN%20SOBX%20MD-white)](https://github.com/MRSHABAN40/SHABAN-SOBX-MD/fork)
+<p align="center">
+  <a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+</p>
 
-![license](https://img.shields.io/github/license/MRSHABAN40/SHABAN-SOBX-MD?color=green&label=License&style=plastic)
-
----------------
 
 <img align="center" height="auto"
 src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MR%20SHABAN♥️&image=https://i.ibb.co/wwkxCP7/Manul-Ofc-X.jpg?v=4&backgroundColor=%23ecf0f1&github=MRSHABAN40&pattern=leaf&colorPattern=%23eaeaea"/>
-
-------------------
 
 👇 Contact Me on WhatsApp  🤝
 [![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923059395959)
@@ -58,19 +55,19 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
 
 ### <br> ♣️ 𝘽𝙊𝙏 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎 ♣️
 
-📢 𝗔𝗟 𝗤𝗨𝗥𝗔𝗡
-
 📢 𝗔𝗡𝗧𝗜𝗩𝗘𝗪𝗢𝗡𝗖𝗘
 
 📢 𝗔𝗟𝗟 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗜𝗡𝗚
 
 📢 𝗜𝗠𝗚 𝗦𝗘𝗔𝗥𝗖𝗛
 
-📢 𝘼𝙐𝙏𝙊𝙍𝙀𝘼𝘾𝙏𝙄𝙊𝙉
+📢 𝘼𝙐𝙏𝙊 𝙍𝙀𝘼𝘾𝙏 𝙈𝙀𝘼𝙎𝙎𝘼𝙂𝙀
 
-📢 𝘼𝙐𝙏𝙊 𝙎𝙏𝘼𝙏𝙐𝙎𝙑𝙄𝙀𝙒
+📢 𝘼𝙐𝙏𝙊 𝙎𝙏𝘼𝙏𝙐𝙎 𝙑𝙄𝙀𝙒
 
 📢 𝘼𝙐𝙏𝙊 𝙎𝙏𝘼𝙏𝙐𝙎 𝙍𝙀𝙋𝙇𝙔
+
+📢 𝘼𝙐𝙏𝙊 𝙎𝙏𝘼𝙏𝙐𝙎 𝙍𝙀𝘼𝘾𝙏
 
 📢 𝙋𝘼𝙄𝙍 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝘾𝙊𝙈𝙈𝘼𝙉𝘿
 
@@ -81,6 +78,8 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
 📢 𝘼𝙉𝙏𝙄𝙇𝙄𝙉𝙆
 
 📢 𝘼𝙉𝙏𝙄 𝙃𝙀𝙍𝙊𝙆𝙐 𝘽𝘼𝙉
+
+📢 𝙐𝙍𝙇 𝙄𝙈𝙂 & 𝙑𝙄𝘿𝙀𝙊
 
 📢 𝘼𝙇𝙇 𝙊𝙁 𝙔𝙊𝙐𝙍 𝙉𝙀𝙀𝘿𝙎 𝙄𝙉 𝙊𝙉𝙀 𝘽𝙊𝙏
 
