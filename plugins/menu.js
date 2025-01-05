@@ -16,29 +16,29 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         let dec = `╭━━━〔 *${config.BOT_NAME}* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ Owner : *${config.OWNER_NAME}*
-┃★│ Baileys : *Multi Device*
-┃★│ Type : *NodeJs*
-┃★│ Platform : *Heroku*
+┃★│ Baileys : *⌨︎Multi Device*
+┃★│ Type : *☁︎NodeJs*
+┃★│ Platform : *♲︎Heroku*
 ┃★│ Mode : *[${config.MODE}]*
 ┃★│ Prifix : *[${config.PREFIX}]*
-┃★│ Version : *V.0.5 Bᴇᴛᴀ*
+┃★│ Version : *3.0.0 Bᴇᴛᴀ☯︎*
 ┃★╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
-╭━━〔 *Menu List* 〕━━┈⊷
+╭━━〔 *☟︎𝗠𝗲𝗻𝘂 𝗟𝗶𝘀𝘁☟︎* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃•📢 aimenu
-┃◈┃•📢 anmiemenu
-┃◈┃•📢 convertmenu
-┃◈┃•📢 funmenu
-┃◈┃•📢 dlmenu
-┃◈┃•📢 listcmd
-┃◈┃•📢 mainmenu
-┃◈┃•📢 groupmenu
-┃◈┃•📢 allmenu
-┃◈┃•📢 ownermenu
-┃◈┃•📢 othermenu
-┃◈┃•📢 logo <text>
-┃◈┃•📢 repo
+┃◈┃• aimenu
+┃◈┃• anmiemenu
+┃◈┃• convertmenu
+┃◈┃• funmenu
+┃◈┃• dlmenu
+┃◈┃• listcmd
+┃◈┃• mainmenu
+┃◈┃• groupmenu
+┃◈┃• allmenu
+┃◈┃• ownermenu
+┃◈┃• othermenu
+┃◈┃• logo <text>
+┃◈┃• repo
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
@@ -54,7 +54,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363358310754973@newsletter',
-                        newsletterName: 'MrShaban',
+                        newsletterName: 'Mʀ-Sʜᴀʙᴀɴ',
                         serverMessageId: 143
                     }
                 }
@@ -87,32 +87,32 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Download Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗠𝗲𝗻𝘂* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃✰ facebook
-┃◈┃✰ mediafire
-┃◈┃✰ tiktok
-┃◈┃✰ twitter
-┃◈┃✰ Insta
-┃◈┃✰ apk
-┃◈┃✰ img
-┃◈┃✰ spotify
-┃◈┃✰ play
-┃◈┃✰ play2
-┃◈┃✰ play3
-┃◈┃✰ tt2
-┃◈┃✰ audio
-┃◈┃✰ video
-┃◈┃✰ video2
-┃◈┃✰ ytmp3
-┃◈┃✰ ytmp4
-┃◈┃✰ song
-┃◈┃✰ darama
-┃◈┃✰ git
-┃◈┃✰ gdrive
-┃◈┃✰ smovie
-┃◈┃✰ baiscope 
-┃◈┃✰ ginisilia 
+┃◈┃• facebook
+┃◈┃• mediafire
+┃◈┃• tiktok
+┃◈┃• twitter
+┃◈┃• Insta
+┃◈┃• apk
+┃◈┃• img
+┃◈┃• spotify
+┃◈┃• play
+┃◈┃• play2
+┃◈┃• play3
+┃◈┃• tt2
+┃◈┃• audio
+┃◈┃• video
+┃◈┃• video2
+┃◈┃• ytmp3
+┃◈┃• ytmp4
+┃◈┃• song
+┃◈┃• darama
+┃◈┃• git
+┃◈┃• gdrive
+┃◈┃• smovie
+┃◈┃• baiscope 
+┃◈┃• ginisilia 
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
@@ -128,7 +128,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363358310754973@newsletter',
-                        newsletterName: 'MrShaban',
+                        newsletterName: 'Mʀ-Sʜᴀʙᴀɴ',
                         serverMessageId: 143
                     }
                 }
@@ -154,43 +154,43 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try
        {
-        let dec = `╭━━〔 *Group Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *𝗚𝗿𝗼𝘂𝗽 𝗠𝗲𝗻𝘂* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃߷ grouplink
-┃◈┃߷ kickall
-┃◈┃߷ kickall2
-┃◈┃߷ kickall3
-┃◈┃߷ add
-┃◈┃߷ remove
-┃◈┃߷ kick
-┃◈┃߷ promote 
-┃◈┃߷ demote
-┃◈┃߷ dismiss 
-┃◈┃߷ revoke
-┃◈┃߷ setgoodbye
-┃◈┃߷ setwelcome
-┃◈┃߷ delete 
-┃◈┃߷ getpic
-┃◈┃߷ ginfo
-┃◈┃߷ delete 
-┃◈┃߷ disappear on
-┃◈┃߷ disappear off
-┃◈┃߷ disappear 7D,24H
-┃◈┃߷ allreq
-┃◈┃߷ updategname
-┃◈┃߷ updategdesc
-┃◈┃߷ joinrequests
-┃◈┃߷ senddm
-┃◈┃߷ nikal
-┃◈┃߷ mute
-┃◈┃߷ unmute
-┃◈┃߷ lockgc
-┃◈┃߷ unlockgc
-┃◈┃߷ invite
-┃◈┃߷ tag
-┃◈┃߷ hidetag
-┃◈┃߷ tagall
-┃◈┃߷ tagadmins
+┃◈┃• grouplink
+┃◈┃• kickall
+┃◈┃• kickall2
+┃◈┃• kickall3
+┃◈┃• add
+┃◈┃• remove
+┃◈┃• kick
+┃◈┃• promote 
+┃◈┃• demote
+┃◈┃• dismiss 
+┃◈┃• revoke
+┃◈┃• setgoodbye
+┃◈┃• setwelcome
+┃◈┃• delete 
+┃◈┃• getpic
+┃◈┃• ginfo
+┃◈┃• delete 
+┃◈┃• disappear on
+┃◈┃• disappear off
+┃◈┃• disappear 7D,24H
+┃◈┃• allreq
+┃◈┃• updategname
+┃◈┃• updategdesc
+┃◈┃• joinrequests
+┃◈┃• senddm
+┃◈┃• nikal
+┃◈┃• mute
+┃◈┃• unmute
+┃◈┃• lockgc
+┃◈┃• unlockgc
+┃◈┃• invite
+┃◈┃• tag
+┃◈┃• hidetag
+┃◈┃• tagall
+┃◈┃• tagadmins
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
@@ -206,7 +206,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363358310754973@newsletter',
-                        newsletterName: 'MrShaban',
+                        newsletterName: 'Mʀ-Sʜᴀʙᴀɴ',
                         serverMessageId: 143
                     }
                 }
@@ -232,30 +232,30 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
 
-        let dec = `╭━━〔 *Fun Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *𝗙𝘂𝗻 𝗠𝗲𝗻𝘂* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃♔︎ insult
-┃◈┃♔︎ pickup
-┃◈┃♔︎ ship
-┃◈┃♔︎ character
-┃◈┃♔︎ hack
-┃◈┃♔︎ joke
-┃◈┃♔︎ hrt
-┃◈┃♔︎ hpy
-┃◈┃♔︎ syd
-┃◈┃♔︎ anger
-┃◈┃♔︎ shy
-┃◈┃♔︎ kiss
-┃◈┃♔︎ mon
-┃◈┃♔︎ cunfuzed
-┃◈┃♔︎ setpp
-┃◈┃♔︎ hand
-┃◈┃♔︎ nikal
-┃◈┃♔︎ hold
-┃◈┃♔︎ hug
-┃◈┃♔︎ nikal
-┃◈┃♔︎ hifi
-┃◈┃♔︎ poke
+┃◈┃• insult
+┃◈┃• pickup
+┃◈┃• ship
+┃◈┃• character
+┃◈┃• hack
+┃◈┃• joke
+┃◈┃• hrt
+┃◈┃• hpy
+┃◈┃• syd
+┃◈┃• anger
+┃◈┃• shy
+┃◈┃• kiss
+┃◈┃• mon
+┃◈┃• cunfuzed
+┃◈┃• setpp
+┃◈┃• hand
+┃◈┃• nikal
+┃◈┃• hold
+┃◈┃• hug
+┃◈┃• nikal
+┃◈┃• hifi
+┃◈┃• poke
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
@@ -271,7 +271,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363358310754973@newsletter',
-                        newsletterName: 'MrShaban',
+                        newsletterName: 'Mʀ-Sʜᴀʙᴀɴ',
                         serverMessageId: 143
                     }
                 }
@@ -296,25 +296,25 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Other Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *𝗢𝘁𝗵𝗲𝗿 𝗠𝗲𝗻𝘂* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃☠︎︎vv
-┃◈┃☠︎︎pair
-┃◈┃☠︎︎pair2
-┃◈┃☠︎︎fact
-┃◈┃☠︎︎fancy
-┃◈┃☠︎︎define
-┃◈┃☠︎︎news
-┃◈┃☠︎︎movie
-┃◈┃☠︎︎weather
-┃◈┃☠︎︎srepo
-┃◈┃☠︎︎insult
-┃◈┃☠︎︎save_send
-┃◈┃☠︎︎wikipedia
-┃◈┃☠︎︎gpass
-┃◈┃☠︎︎githubstalk
-┃◈┃☠︎︎yts
-┃◈┃☠︎︎ytv
+┃◈┃• vv
+┃◈┃• pair
+┃◈┃• pair2
+┃◈┃• fact
+┃◈┃• fancy
+┃◈┃• define
+┃◈┃• news
+┃◈┃• movie
+┃◈┃• weather
+┃◈┃• srepo
+┃◈┃• insult
+┃◈┃• save
+┃◈┃• wikipedia
+┃◈┃• gpass
+┃◈┃• githubstalk
+┃◈┃• yts
+┃◈┃• ytv
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
@@ -330,7 +330,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363358310754973@newsletter',
-                        newsletterName: 'MrShaban',
+                        newsletterName: 'Mʀ-Sʜᴀʙᴀɴ',
                         serverMessageId: 143
                     }
                 }
@@ -355,18 +355,18 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Main Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *𝗠𝗮𝗶𝗻 𝗠𝗲𝗻𝘂* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃✿︎ ping
-┃◈┃✿︎ live 
-┃◈┃✿︎ alive
-┃◈┃✿︎ runtime
-┃◈┃✿︎ uptime 
-┃◈┃✿︎ repo
-┃◈┃✿︎ owner
-┃◈┃✿︎ menu
-┃◈┃✿︎ menu2
-┃◈┃✿︎ restart
+┃◈┃• ping
+┃◈┃• live 
+┃◈┃• alive
+┃◈┃• runtime
+┃◈┃• uptime 
+┃◈┃• repo
+┃◈┃• owner
+┃◈┃• menu
+┃◈┃• menu2
+┃◈┃• restart
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
@@ -382,7 +382,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363358310754973@newsletter',
-                        newsletterName: 'MrShaban',
+                        newsletterName: 'Mʀ-Sʜᴀʙᴀɴ',
                         serverMessageId: 143
                     }
                 }
@@ -407,7 +407,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Owner Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *𝗢𝘄𝗻𝗲𝗿 𝗠𝗲𝗻𝘂* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• owner
 ┃◈┃• menu
@@ -441,7 +441,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363358310754973@newsletter',
-                        newsletterName: 'JawadTechX',
+                        newsletterName: 'Mʀ-Sʜᴀʙᴀɴ',
                         serverMessageId: 143
                     }
                 }
@@ -466,7 +466,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Convert Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *𝗖𝗼𝗻𝘃𝗲𝗿𝘁 𝗠𝗲𝗻𝘂* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• sticker
 ┃◈┃• sticker2
@@ -490,7 +490,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363358310754973@newsletter',
-                        newsletterName: 'MrShaban',
+                        newsletterName: 'Mʀ-Sʜᴀʙᴀɴ',
                         serverMessageId: 143
                     }
                 }
@@ -516,34 +516,34 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-          let dec = `╭━━〔 *Anime Menu* 〕━━┈⊷
+          let dec = `╭━━〔 *𝗔𝗻𝗶𝗺𝗲 𝗠𝗲𝗻𝘂* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃☻︎ fack
-┃◈┃☻︎ dog
-┃◈┃☻︎ awoo
-┃◈┃☻︎ garl
-┃◈┃☻︎ waifu
-┃◈┃☻︎ neko
-┃◈┃☻︎ megnumin
-┃◈┃☻︎ neko
-┃◈┃☻︎ maid
-┃◈┃☻︎ loli
-┃◈┃☻︎ animegirl
-┃◈┃☻︎ animegirl
-┃◈┃☻︎ animegirl1
-┃◈┃☻︎ animegirl2
-┃◈┃☻︎ animegirl3
-┃◈┃☻︎ animegirl4
-┃◈┃☻︎ animegirl5
-┃◈┃☻︎ anime1
-┃◈┃☻︎ anime1
-┃◈┃☻︎ anime2
-┃◈┃☻︎ anime3
-┃◈┃☻︎ anime4
-┃◈┃☻︎ anime5
-┃◈┃☻︎ animenews
-┃◈┃☻︎ foxgirl
-┃◈┃☻︎ naruto
+┃◈┃• fack
+┃◈┃• dog
+┃◈┃• awoo
+┃◈┃• garl
+┃◈┃• waifu
+┃◈┃• neko
+┃◈┃• megnumin
+┃◈┃• neko
+┃◈┃• maid
+┃◈┃• loli
+┃◈┃• animegirl
+┃◈┃• animegirl
+┃◈┃• animegirl1
+┃◈┃• animegirl2
+┃◈┃• animegirl3
+┃◈┃• animegirl4
+┃◈┃• animegirl5
+┃◈┃• anime1
+┃◈┃• anime1
+┃◈┃• anime2
+┃◈┃• anime3
+┃◈┃• anime4
+┃◈┃• anime5
+┃◈┃• animenews
+┃◈┃• foxgirl
+┃◈┃• naruto
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
@@ -559,7 +559,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363358310754973@newsletter',
-                        newsletterName: 'JawadTechX',
+                        newsletterName: 'Mʀ-Sʜᴀʙᴀɴ',
                         serverMessageId: 143
                     }
                 }
@@ -585,15 +585,15 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Ai Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *𝗔𝗶 𝗠𝗲𝗻𝘂* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃𖧷 ai
-┃◈┃𖧷 gpt
-┃◈┃𖧷 meta
-┃◈┃𖧷 blackbox
-┃◈┃𖧷 gpt4
-┃◈┃𖧷 bing
-┃◈┃𖧷 copilot
+┃◈┃• ai
+┃◈┃• gpt
+┃◈┃• meta
+┃◈┃• blackbox
+┃◈┃• gpt4
+┃◈┃• bing
+┃◈┃• copilot
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
@@ -609,7 +609,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363358310754973@newsletter',
-                        newsletterName: 'MrShaban',
+                        newsletterName: 'Mʀ-Sʜᴀʙᴀɴ',
                         serverMessageId: 143
                     }
                 }

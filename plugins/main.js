@@ -17,220 +17,220 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         let dec = `╭━━━〔 *${config.BOT_NAME}* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ Owner : *${config.OWNER_NAME}*
-┃★│ Baileys : *Multi Device*
-┃★│ Type : *NodeJs*
-┃★│ Platform : *Heroku*
+┃★│ Baileys : *⌨︎Multi Device*
+┃★│ Type : *☁︎NodeJs︎*
+┃★│ Platform : *♲︎Heroku︎*
 ┃★│ Mode : *[${config.MODE}]*
 ┃★│ Prifix : *[${config.PREFIX}]*
-┃★│ Version : *3.0.0 Bᴇᴛᴀ*
+┃★│ Version : *3.0.0 Bᴇᴛᴀ☯︎*
 ┃★╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
-╭━━〔 *Download Menu* 〕━━┈⊷
+╭━━〔 *✪DᴏᴡɴʟᴏᴀD MᴇɴU✪* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• facebook
-┃◈┃• mediafire
-┃◈┃• tiktok
-┃◈┃• twitter
-┃◈┃• Insta
-┃◈┃• apk
-┃◈┃• img
-┃◈┃• tt2
-┃◈┃• git
-┃◈┃• spotify
-┃◈┃• play
-┃◈┃• play2
-┃◈┃• play3
-┃◈┃• audio
-┃◈┃• video
-┃◈┃• video2
-┃◈┃• ytmp3
-┃◈┃• ytmp4
-┃◈┃• song
-┃◈┃• darama
-┃◈┃• gdrive
-┃◈┃• smovie
-┃◈┃• baiscope 
-┃◈┃• ginisilia 
+┃◈┃✪ facebook
+┃◈┃✪ mediafire
+┃◈┃✪ tiktok
+┃◈┃✪ twitter
+┃◈┃✪ Insta
+┃◈┃✪ apk
+┃◈┃✪ img
+┃◈┃✪ tt2
+┃◈┃✪ git
+┃◈┃✪ spotify
+┃◈┃✪ play
+┃◈┃✪ play2
+┃◈┃✪ play3
+┃◈┃✪ audio
+┃◈┃✪ video
+┃◈┃✪ video2
+┃◈┃✪ ytmp3
+┃◈┃✪ ytmp4
+┃◈┃✪ song
+┃◈┃✪ darama
+┃◈┃✪ gdrive
+┃◈┃✪ smovie
+┃◈┃✪ baiscope 
+┃◈┃✪ ginisilia 
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Group Menu* 〕━━┈⊷
+╭━━〔 *⍟GʀᴏᴜP MᴇɴU⍟* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• grouplink
-┃◈┃• kickall
-┃◈┃• kickall2
-┃◈┃• kickall3
-┃◈┃• add
-┃◈┃• remove
-┃◈┃• kick
-┃◈┃• promote 
-┃◈┃• demote
-┃◈┃• dismiss 
-┃◈┃• revoke
-┃◈┃• setgoodbye
-┃◈┃• setwelcome
-┃◈┃• delete 
-┃◈┃• getpic
-┃◈┃• ginfo
-┃◈┃• delete 
-┃◈┃• disappear on
-┃◈┃• disappear off
-┃◈┃• disappear 7D,24H
-┃◈┃• allreq
-┃◈┃• updategname
-┃◈┃• updategdesc
-┃◈┃• joinrequests
-┃◈┃• senddm
-┃◈┃• nikal
-┃◈┃• mute
-┃◈┃• unmute
-┃◈┃• lockgc
-┃◈┃• unlockgc
-┃◈┃• invite
-┃◈┃• tag
-┃◈┃• hidetag
-┃◈┃• tagall
-┃◈┃• tagadmins
+┃◈┃⍟ grouplink
+┃◈┃⍟ kickall
+┃◈┃⍟ kickall2
+┃◈┃⍟ kickall3
+┃◈┃⍟ add
+┃◈┃⍟ remove
+┃◈┃⍟ kick
+┃◈┃⍟ promote 
+┃◈┃⍟ demote
+┃◈┃⍟ dismiss 
+┃◈┃⍟ revoke
+┃◈┃⍟ setgoodbye
+┃◈┃⍟ setwelcome
+┃◈┃⍟ delete 
+┃◈┃⍟ getpic
+┃◈┃⍟ ginfo
+┃◈┃⍟ delete 
+┃◈┃⍟ disappear on
+┃◈┃⍟ disappear off
+┃◈┃⍟ disappear 7D,24H
+┃◈┃⍟ allreq
+┃◈┃⍟ updategname
+┃◈┃⍟ updategdesc
+┃◈┃⍟ joinrequests
+┃◈┃⍟ senddm
+┃◈┃⍟ nikal
+┃◈┃⍟ mute
+┃◈┃⍟ unmute
+┃◈┃⍟ lockgc
+┃◈┃⍟ unlockgc
+┃◈┃⍟ invite
+┃◈┃⍟ tag
+┃◈┃⍟ hidetag
+┃◈┃⍟ tagall
+┃◈┃⍟ tagadmins
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Owner Menu* 〕━━┈⊷
+╭━━〔 *✫OᴡɴᴇR MᴇɴU✫* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• owner
-┃◈┃• menu
-┃◈┃• menu2
-┃◈┃• vv
-┃◈┃• listcmd
-┃◈┃• allmenu
-┃◈┃• repo
-┃◈┃• block
-┃◈┃• unblock
-┃◈┃• fullpp
-┃◈┃• setpp
-┃◈┃• restart
-┃◈┃• shutdown
-┃◈┃• updatecmd
-┃◈┃• alive
-┃◈┃• ping 
-┃◈┃• gjid
-┃◈┃• jid
+┃◈┃✫ owner
+┃◈┃✫ menu
+┃◈┃✫ menu2
+┃◈┃✫ vv
+┃◈┃✫ listcmd
+┃◈┃✫ allmenu
+┃◈┃✫ repo
+┃◈┃✫ block
+┃◈┃✫ unblock
+┃◈┃✫ fullpp
+┃◈┃✫ setpp
+┃◈┃✫ restart
+┃◈┃✫ shutdown
+┃◈┃✫ updatecmd
+┃◈┃✫ alive
+┃◈┃✫ ping 
+┃◈┃✫ gjid
+┃◈┃✫ jid
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Fun Menu* 〕━━┈⊷
+╭━━〔 *✵FᴜN MᴇɴU✵* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• insult
-┃◈┃• hack
-┃◈┃• ship
-┃◈┃• character
-┃◈┃• pickup 
-┃◈┃• joke
-┃◈┃• hrt
-┃◈┃• hpy
-┃◈┃• syd
-┃◈┃• anger
-┃◈┃• shy
-┃◈┃• kiss
-┃◈┃• mon
-┃◈┃• cunfuzed
-┃◈┃• setpp
-┃◈┃• hand
-┃◈┃• nikal
-┃◈┃• hold
-┃◈┃• hug
-┃◈┃• nikal
-┃◈┃• hifi
-┃◈┃• poke
+┃◈┃✵ insult
+┃◈┃✵ hack
+┃◈┃✵ ship
+┃◈┃✵ character
+┃◈┃✵ pickup 
+┃◈┃✵ joke
+┃◈┃✵ hrt
+┃◈┃✵ hpy
+┃◈┃✵ syd
+┃◈┃✵ anger
+┃◈┃✵ shy
+┃◈┃✵ kiss
+┃◈┃✵ mon
+┃◈┃✵ cunfuzed
+┃◈┃✵ setpp
+┃◈┃✵ hand
+┃◈┃✵ nikal
+┃◈┃✵ hold
+┃◈┃✵ hug
+┃◈┃✵ nikal
+┃◈┃✵ hifi
+┃◈┃✵ poke
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Convert Menu* 〕━━┈⊷
+╭━━〔 *✩CᴏɴᴠᴇʀT MᴇɴU✩* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• sticker
-┃◈┃• sticker2
-┃◈┃• fancy
-┃◈┃• take
-┃◈┃• tomp3
-┃◈┃• tts
-┃◈┃• trt
+┃◈┃✩ sticker
+┃◈┃✩ sticker2
+┃◈┃✩ fancy
+┃◈┃✩ take
+┃◈┃✩ tomp3
+┃◈┃✩ tts
+┃◈┃✩ trt
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Ai Menu* 〕━━┈⊷
+╭━━〔 *☆Aɪ MᴇɴU☆* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• ai
-┃◈┃• gpt
-┃◈┃• meta
-┃◈┃• blackbox
-┃◈┃• gpt4
-┃◈┃• bing
-┃◈┃• copilot
+┃◈┃☆ ai
+┃◈┃☆ gpt
+┃◈┃☆ meta
+┃◈┃☆ blackbox
+┃◈┃☆ gpt4
+┃◈┃☆ bing
+┃◈┃☆ copilot
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Main Menu* 〕━━┈⊷
+╭━━〔 *✯Mᴀɪɴ MᴇɴU✯* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• ping
-┃◈┃• ping2
-┃◈┃• speed
-┃◈┃• live 
-┃◈┃• alive
-┃◈┃• runtime
-┃◈┃• uptime 
-┃◈┃• repo
-┃◈┃• owner
-┃◈┃• menu
-┃◈┃• menu2
-┃◈┃• restart
+┃◈┃✯ ping
+┃◈┃✯ ping2
+┃◈┃✯ speed
+┃◈┃✯ live 
+┃◈┃✯ alive
+┃◈┃✯ runtime
+┃◈┃✯ uptime 
+┃◈┃✯ repo
+┃◈┃✯ owner
+┃◈┃✯ menu
+┃◈┃✯ menu2
+┃◈┃✯ restart
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Anime Menu* 〕━━┈⊷
+╭━━〔 *✰Aɴɪᴍɪ MᴇɴU✰* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• fack
-┃◈┃• truth
-┃◈┃• dare
-┃◈┃• dog
-┃◈┃• awoo
-┃◈┃• garl
-┃◈┃• waifu
-┃◈┃• neko
-┃◈┃• megnumin
-┃◈┃• neko
-┃◈┃• maid
-┃◈┃• loli
-┃◈┃• animegirl
-┃◈┃• animegirl
-┃◈┃• animegirl1
-┃◈┃• animegirl2
-┃◈┃• animegirl3
-┃◈┃• animegirl4
-┃◈┃• animegirl5
-┃◈┃• anime1
-┃◈┃• anime1
-┃◈┃• anime2
-┃◈┃• anime3
-┃◈┃• anime4
-┃◈┃• anime5
-┃◈┃• animenews
-┃◈┃• foxgirl
-┃◈┃• naruto
+┃◈┃✰ fack
+┃◈┃✰ truth
+┃◈┃✰ dare
+┃◈┃✰ dog
+┃◈┃✰ awoo
+┃◈┃✰ garl
+┃◈┃✰ waifu
+┃◈┃✰ neko
+┃◈┃✰ megnumin
+┃◈┃✰ neko
+┃◈┃✰ maid
+┃◈┃✰ loli
+┃◈┃✰ animegirl
+┃◈┃✰ animegirl
+┃◈┃✰ animegirl1
+┃◈┃✰ animegirl2
+┃◈┃✰ animegirl3
+┃◈┃✰ animegirl4
+┃◈┃✰ animegirl5
+┃◈┃✰ anime1
+┃◈┃✰ anime1
+┃◈┃✰ anime2
+┃◈┃✰ anime3
+┃◈┃✰ anime4
+┃◈┃✰ anime5
+┃◈┃✰ animenews
+┃◈┃✰ foxgirl
+┃◈┃✰ naruto
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Other Menu* 〕━━┈⊷
+╭━━〔 *★OᴛʜᴇR MᴇɴU★* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• fact
-┃◈┃• cpp
-┃◈┃• rw
-┃◈┃• pair
-┃◈┃• pair2
-┃◈┃• fancy
-┃◈┃• logo <text>
-┃◈┃• define
-┃◈┃• news
-┃◈┃• movie
-┃◈┃• weather
-┃◈┃• srepo
-┃◈┃• insult
-┃◈┃• save
-┃◈┃• wikipedia
-┃◈┃• gpass
-┃◈┃• githubstalk
-┃◈┃• yts
-┃◈┃• ytv
+┃◈┃★ fact
+┃◈┃★ cpp
+┃◈┃★ rw
+┃◈┃★ pair
+┃◈┃★ pair2
+┃◈┃★ fancy
+┃◈┃★ logo <text>
+┃◈┃★ define
+┃◈┃★ news
+┃◈┃★ movie
+┃◈┃★ weather
+┃◈┃★ srepo
+┃◈┃★ insult
+┃◈┃★ save
+┃◈┃★ wikipedia
+┃◈┃★ gpass
+┃◈┃★ githubstalk
+┃◈┃★ yts
+┃◈┃★ ytv
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
@@ -246,7 +246,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363358310754973@newsletter',
-                        newsletterName: 'MrShaban',
+                        newsletterName: 'Mʀ-Sʜᴀʙᴀɴ',
                         serverMessageId: 143
                     }
                 }

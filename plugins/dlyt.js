@@ -46,7 +46,7 @@ async (conn, mek, m, { from, prefix, quoted, q, reply, waitForReply }) => {
         await conn.sendMessage(from, {
             video: { url: ytdl.download.url },
             mimetype: "video/mp4",
-            caption: `> *${yts.title}*\n> *Quality: ${quality}*\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ Mʀ-Sʜᴀʙᴀɴ ♡*`
+            caption: `> *${yts.title}*\n> *Quality: ${quality}*\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ Mʀ Sʜᴀʙᴀɴ ♡*`
         }, { quoted: mek });
     } catch (e) {
         console.log(e);
@@ -88,7 +88,7 @@ let ytmsg = `╭━━━〔 *SHABAN-SOBX-MD* 〕━━━┈⊷
 ┇๏ *Author* -  ${yts.author.name} 
 ┇๏ *Link* -  ${yts.url}
 ╰━━❑━⪼
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ Mʀ-Sʜᴀʙᴀɴ ♡*`
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ Mʀ Sʜᴀʙᴀɴ ♡*`
 // SEND DETAILS
 await conn.sendMessage(from, { image: { url: yts.thumbnail || yts.image || '' }, caption: `${ytmsg}`}, { quoted: mek });
 
@@ -96,7 +96,7 @@ await conn.sendMessage(from, { image: { url: yts.thumbnail || yts.image || '' },
 await conn.sendMessage(from, { audio: { url: ytdl.download.url }, mimetype: "audio/mpeg" }, { quoted: mek })
 
 // SEND DOC TYPE
-await conn.sendMessage(from, { document: { url: ytdl.download.url }, mimetype: "audio/mpeg", fileName: ytdl.result.title + '.mp3', caption: `> *© Pᴏᴡᴇʀᴇᴅ Bʏ Mʀ-Sʜᴀʙᴀɴ ♡*` }, { quoted: mek })
+await conn.sendMessage(from, { document: { url: ytdl.download.url }, mimetype: "audio/mpeg", fileName: ytdl.result.title + '.mp3', caption: `> *© Pᴏᴡᴇʀᴇᴅ Bʏ Mʀ Sʜᴀʙᴀɴ ♡*` }, { quoted: mek })
 
 
 } catch (e) {

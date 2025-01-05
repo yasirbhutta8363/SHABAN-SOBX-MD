@@ -35,7 +35,7 @@ async (conn, mek, m, { from }) => {
 ┃◈┃• *Here is the owner details*
 ┃◈┃• *Name* - ${ownerName}
 ┃◈┃• *Number* ${ownerNumber}
-┃◈┃• *Version*: V.0.5 Beta
+┃◈┃• *Version*: 3.0.0 Beta
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ`, // Display the owner's details
@@ -45,7 +45,7 @@ async (conn, mek, m, { from }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363358310754973@newsletter',
-                    newsletterName: '𝐌𝐫𝐒𝐡𝐚𝐛𝐚𝐧',
+                    newsletterName: 'Mʀ-Sʜᴀʙᴀɴ',
                     serverMessageId: 143
                 }            
             }

@@ -31,14 +31,14 @@ async (conn, mek, m, {
     // give credit and use
     const imageMessage = {
       image: { url: screenshotUrl },
-      caption: "*WEB SS DOWNLOADER*\n\n> *© Powered By MrShaban*",
+      caption: "*WEB SS DOWNLOADER*\n\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ Mʀ-Sʜᴀʙᴀɴ*",
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363358310754973@newsletter',
-          newsletterName: "MrShaban",
+          newsletterName: "Mʀ-Sʜᴀʙᴀɴ",
           serverMessageId: 143,
         },
       },
@@ -51,4 +51,4 @@ async (conn, mek, m, {
   }
 });
 
-// ⿻ ⌜ 𝙎𝙃𝘼𝘽𝘼𝙉 ⌟⿻⃮͛🇵🇰𖤐
+// ⿻ ⌜ 𝗦𝗛𝗔𝗕𝗔𝗡 ⌟⿻⃮͛🇵🇰𖤐

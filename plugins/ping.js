@@ -6,7 +6,7 @@ cmd({
     alias: "speed",
     desc: "Check bot's response time.",
     category: "main",
-    react: "🚀",
+    react: "⚡",
     filename: __filename
 },
 async (conn, mek, m, { from, quoted, reply }) => {
@@ -14,21 +14,21 @@ async (conn, mek, m, { from, quoted, reply }) => {
         const startTime = Date.now();
 
         // Add a short delay
-        await new Promise(resolve => setTimeout(resolve, 100)); // 100ms delay
+        await new Promise(resolve => setTimeout(resolve, 10)); // 10ms delay
 
         const endTime = Date.now();
         const ping = endTime - startTime;
 
         // Send the ping result
         await conn.sendMessage(from, { 
-            text: `*🚀 𝐒𝐇𝐀𝐁𝐀𝐍-𝐒𝐎𝐁𝐗-𝐌𝐃 𝐒𝐏𝐄𝐄𝐃: ${ping}𝐦𝐬*`, 
+            text: `*⚡ SHABAN-SOBX-MD SPEED: ${ping}ms*`, 
             contextInfo: {
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363358310754973@newsletter',
-                    newsletterName: 'MrShaban',
+                    newsletterName: 'Mʀ-Sʜᴀʙᴀɴ',
                     serverMessageId: 143
                 }
             }
@@ -45,7 +45,7 @@ cmd({
     pattern: "ping2",
     desc: "Check bot's response time.",
     category: "main",
-    react: "🤠",
+    react: "🍂",
     filename: __filename
 },
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {

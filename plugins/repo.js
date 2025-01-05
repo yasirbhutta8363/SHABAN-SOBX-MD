@@ -32,7 +32,7 @@ https://github.com/MRSHABAN40/SHABAN-SOBX-MD`;
                 isForwarded: true, 
                 forwardedNewsletterMessageInfo: { 
                     newsletterJid: '120363358310754973@newsletter', 
-                    newsletterName: 'MrShaban', 
+                    newsletterName: 'Mʀ-Sʜᴀʙᴀɴ', 
                     serverMessageId: 143 
                 } 
             } 
@@ -49,7 +49,7 @@ https://github.com/MRSHABAN40/SHABAN-SOBX-MD`;
                 isForwarded: true, 
                 forwardedNewsletterMessageInfo: { 
                     newsletterJid: '120363358310754973@newsletter', 
-                    newsletterName: 'MrShaban', 
+                    newsletterName: 'Mʀ-Sʜᴀʙᴀɴ', 
                     serverMessageId: 143 
                 } 
             }

@@ -28,7 +28,7 @@ const wordInfo = `
 📝 *Example*: ${example}
 🔗 *Synonyms*: ${synonyms}
 
-> *@ Powered By Mr Shaban*`;
+> *@ ᴘᴏᴡᴇʀᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*`;
 
                                  return reply(wordInfo);
                              } catch (e) {
