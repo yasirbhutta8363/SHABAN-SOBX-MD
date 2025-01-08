@@ -83,10 +83,7 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V3.0.0&description=🪀TH
 
 📢 𝘼𝙇𝙇 𝙊𝙁 𝙔𝙊𝙐𝙍 𝙉𝙀𝙀𝘿𝙎 𝙄𝙉 𝙊𝙉𝙀 𝘽𝙊𝙏
 
-[![Get Session ID 1 Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://megapair1-369d58255813.herokuapp.com/)
-
-[![Get Session ID 2 Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=BB4600&style=for-the-badge&logo=firefox&logoColor=white)](https://megapair2-eaeb1b04e1ab.herokuapp.com/)
-
+[![Get Session ID 1 Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://shaban-sobx-md-7b3eadacd0ee.herokuapp.com/)
  [![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/MRSHABAN40/SHABAN-SOBX-MD)
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=shaban-sobx-md&repository=MRSHABAN40%2FSHABAN-SOBX-MD&branch=main&builder=dockerfile&instance_type=free&regions=was&env%5BPREFIX%5D=.&env%5BSESSION_ID%5D=&env%5BMODE%5D=public&env%5BAUTO_STATUS_SEEN%5D=true&env%5BAUTO_TYPING%5D=false&env%5BANTI_LINK%5D=true&env%5BAUTO_REACT%5D=false&env%5BOWNER_NUMBER%5D=)
