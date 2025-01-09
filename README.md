@@ -1,12 +1,6 @@
-----------
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+MR SHABAN;RELEASED+24-12-2024" alt="Typing SVG" /></a>
 
-----------
-
 <a><img src='https://i.ibb.co/9N1sJ41/Manul-Ofc-X.gif'/></a>
-
--------
 
  </p>
   <p align="center">
@@ -121,8 +115,6 @@ jobs:
 ***
 
 `⚡ HOW TO DEPLOY SHABAN-SOBX-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO 👇`
-
--------------
 
 <p align="center">
    <a href="https://youtu.be/xxw7uG5Xb6M?si=cwdTifhYH5INDSFD"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
