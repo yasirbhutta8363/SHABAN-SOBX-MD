@@ -69,12 +69,17 @@
  [![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/MRSHABAN40/SHABAN-SOBX-MD)
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=shaban-sobx-md&repository=MRSHABAN40%2FSHABAN-SOBX-MD&branch=main&builder=dockerfile&instance_type=free&regions=was&env%5BPREFIX%5D=.&env%5BSESSION_ID%5D=&env%5BMODE%5D=public&env%5BAUTO_STATUS_SEEN%5D=true&env%5BAUTO_TYPING%5D=false&env%5BANTI_LINK%5D=true&env%5BAUTO_REACT%5D=false&env%5BOWNER_NUMBER%5D=)
+
+
+<details>
+
+<b><strong><summary align="center" style="color: Yello;">Deploy On Workflow</summary></strong></b>
+<p style="text-align: center; font-size: 1.2em;">
  
-------------
-### <br> ❖👇DEPLOY_GETHUB👇❖
+<h8>Copy the workflow codes and then frok the repo edit config add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes name them deploy and save the file</h8>
+<h3 align-"center"> Important</h3>
+<h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
 
-
-### <br> ❖ DEPLOY_WORKFLOWS ❖
 ```
 name: Node.js CI
 
@@ -110,8 +115,9 @@ jobs:
     - name: Start application
       run: npm start
 ```
+</details> 
 
------------
+***
 
 `⚡ HOW TO DEPLOY SHABAN-SOBX-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO 👇`
 
