@@ -30,35 +30,15 @@
 [![Subscribe to My Channel on YouTube](https://img.shields.io/static/v1?label=Subscribe%20to%20My%20Channel&message=YouTube&color=FF0000&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mrshaban282?si=Mmp8uT0UZsRqvKnq)
 [![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRSHABAN40)
 
-### <br> ♣️ 𝘽𝙊𝙏 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎 ♣️
+-------------------------
 
-📢 𝗔𝗡𝗧𝗜𝗩𝗘𝗪𝗢𝗡𝗖𝗘
+***BOT FEATURES 💌***
 
-📢 𝗔𝗟𝗟 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗜𝗡𝗚
+| Menu ⁠➜ | Bot | Group | Search | Download | Tools | Ai | Viewonce | Fun | Status Reply | Status Reacts | Convert | Autoreacts |
+| --------| --- | ----- | ------ | -------- | ----- | -- | ---- | --- | ----- | ----| --------| -----|
+| Work ➜ | ✅ | ✅ | ✅ | ✅ | ✅  | ✅ | ✅ |  ✅ | ✅ | ✅ | ✅ | ✅ |
 
-📢 𝗜𝗠𝗚 𝗦𝗘𝗔𝗥𝗖𝗛
-
-📢 𝘼𝙐𝙏𝙊 𝙍𝙀𝘼𝘾𝙏 𝙈𝙀𝘼𝙎𝙎𝘼𝙂𝙀
-
-📢 𝘼𝙐𝙏𝙊 𝙎𝙏𝘼𝙏𝙐𝙎 𝙑𝙄𝙀𝙒
-
-📢 𝘼𝙐𝙏𝙊 𝙎𝙏𝘼𝙏𝙐𝙎 𝙍𝙀𝙋𝙇𝙔
-
-📢 𝘼𝙐𝙏𝙊 𝙎𝙏𝘼𝙏𝙐𝙎 𝙍𝙀𝘼𝘾𝙏
-
-📢 𝙋𝘼𝙄𝙍 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝘾𝙊𝙈𝙈𝘼𝙉𝘿
-
-📢 𝘼𝙐𝙏𝙊𝙍𝙀𝘼𝘿
-
-📢 𝙊𝙒𝙉𝙀𝙍 𝘾𝙊𝙈𝙈𝘼𝙉𝘿
-
-📢 𝘼𝙉𝙏𝙄𝙇𝙄𝙉𝙆
-
-📢 𝘼𝙉𝙏𝙄 𝙃𝙀𝙍𝙊𝙆𝙐 𝘽𝘼𝙉
-
-📢 𝙐𝙍𝙇 𝙄𝙈𝙂 & 𝙑𝙄𝘿𝙀𝙊
-
-📢 𝘼𝙇𝙇 𝙊𝙁 𝙔𝙊𝙐𝙍 𝙉𝙀𝙀𝘿𝙎 𝙄𝙉 𝙊𝙉𝙀 𝘽𝙊𝙏
+---------------------
 
 <a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/fork"><img title="SHABAN-SOBX-MD" src="https://img.shields.io/badge/FORK-SHABAN SOBX MD-h?color=green&style=for-the-badge&logo=stackshare"></a>
 [![Get Session ID 1 Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://shaban-sobx-md-7b3eadacd0ee.herokuapp.com/)
