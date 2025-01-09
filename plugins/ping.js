@@ -14,14 +14,14 @@ async (conn, mek, m, { from, quoted, reply }) => {
         const startTime = Date.now();
 
         // Add a short delay
-        await new Promise(resolve => setTimeout(resolve, 10)); // 10ms delay
+        await new Promise(resolve => setTimeout(resolve, 5)); // 5ms delay
 
         const endTime = Date.now();
         const ping = endTime - startTime;
 
         // Send the ping result
         await conn.sendMessage(from, { 
-            text: `*⚡ SHABAN-SOBX-MD SPEED: ${ping}ms*`, 
+            text: `*📡 sp̆̈ĕ̈ĕ̈d̆̈: ${ping}ᴍs*`, 
             contextInfo: {
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
@@ -51,10 +51,10 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         const startTime = Date.now()
-        const message = await conn.sendMessage(from, { text: '> *PINGING...*' })
+        const message = await conn.sendMessage(from, { text: '> *ᴘɪɴɢɪɴɢ*' })
         const endTime = Date.now()
         const ping = endTime - startTime
-        await conn.sendMessage(from, { text: `> *🔥 SHABAN-SOBX-MD SPEED : ${ping}ms*` }, { quoted: message })
+        await conn.sendMessage(from, { text: `> *📡 sᴘᴇᴇᴅ : ${ping}ᴍs*` }, { quoted: message })
     } catch (e) {
         console.log(e)
         reply(`${e}`)
